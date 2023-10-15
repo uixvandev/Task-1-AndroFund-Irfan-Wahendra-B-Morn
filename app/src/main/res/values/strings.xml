@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Tugas</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="infodate">Terakhir di perbarui 09.30,29 sep 2023</string>
+    <string name="email">email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="confirm_password">Masukkan kata sandi</string>
+    <string name="masuk">Masuk</string>
+    <string name="lupa_password">Lupa password</string>
+    <string name="belum_punya_akun_daftar">Belum punya akun? daftar</string>
+    <string name="masuk_menggunakan_akun_anda">Masuk menggunakan akun anda</string>
+    <string name="daftar">Daftar</string>
+    <string name="sudah_memiliki_akun_masuk">Sudah memiliki akun? Masuk</string>
 </resources>
